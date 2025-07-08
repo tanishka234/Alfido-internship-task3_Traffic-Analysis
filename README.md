@@ -101,13 +101,6 @@ The analysis was supported by visualizations including:
 
 ---
 
-## 📦 Deliverables  
-- `traffic.csv`: Original dataset  
-- `traffic_cleaned.csv.gz`: Cleaned dataset (compressed)  
-- `Website_Traffic_Analysis.ipynb`: Final analysis notebook  
-- `README.md`: Project documentation and insights  
-
----
 
 ## 👩‍💻 Intern: Tanishka Jain  
 **Company:** Alfido Tech  
